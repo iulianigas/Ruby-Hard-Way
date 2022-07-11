@@ -18,3 +18,8 @@ puts backslash_cat
 puts fat_cat
 
 #this exercise was related to escape sequences
+
+puts "-" * 30
+
+puts "I am 6'2\" tall."
+puts 'I am 6\'2" tall.'
